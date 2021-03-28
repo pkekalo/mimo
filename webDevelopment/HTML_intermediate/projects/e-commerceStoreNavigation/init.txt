@@ -1,0 +1,4 @@
+Let's apply your knowledge on lists and build a navigation bar for a hipster e-commerce website.
+
+We'll code a nested list to display all the clothing items the website has to offer.
+
