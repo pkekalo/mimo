@@ -1,0 +1,1 @@
+Let's practice our linking webpages skills by making a game show website where visitors win prizes if they choose the right option.
