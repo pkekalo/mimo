@@ -1,0 +1,3 @@
+Using input and image elements, we can build interesting interfaces for settings.
+
+Let's apply our knowledge on those elements to build an interface for computer settings 
