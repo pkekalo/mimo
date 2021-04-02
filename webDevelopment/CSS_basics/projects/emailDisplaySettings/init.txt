@@ -1,0 +1,3 @@
+Let's use paddings to illustrate how email apps can change how they display their emails.
+
+We'll switch between compact, default, and comfortable view settings by setting different padding values for each.
