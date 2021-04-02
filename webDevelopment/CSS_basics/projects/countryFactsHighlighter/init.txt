@@ -1,0 +1,3 @@
+Let's practice our knowledge of resizing elements and adding borders by coding parts of an education app.
+
+The app uses HTML and CSS to display information to its users about different countries.
