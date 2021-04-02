@@ -1,0 +1,3 @@
+Let's apply our knowledge of style sheets by helping a sports website cover the International Paintball Championship.
+
+We'll use CSS to highlight important information, like the names of the dueling teams and the team captains.
