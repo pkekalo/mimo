@@ -1,0 +1,3 @@
+An exciting new startup has asked for your help in improving their weekly email newsletter.
+
+Their current email has the margins set wrong, meaning there's too little space between elements.
